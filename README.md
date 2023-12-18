@@ -4,7 +4,11 @@
 ![image](https://github.com/fabianor135/Introdu-o-Linguagem-HTML/assets/84815028/2328efa4-08b6-4331-afd0-248c036edab8)
 
 <h1>1) Parágrafos:</h1>
-![image](https://github.com/fabianor135/Introdu-o-Linguagem-HTML/assets/84815028/87b2abf6-0fb6-438d-8c46-2c964061c5ed)
+
+![image](https://github.com/fabianor135/Introdu-o-Linguagem-HTML/assets/84815028/1577f63d-e9cc-43d2-96eb-fa107391cd0b)
+![image](https://github.com/fabianor135/Introdu-o-Linguagem-HTML/assets/84815028/5272fcdd-32fd-4f36-9f19-18fc083d6c58)
+
+
 
 
 
