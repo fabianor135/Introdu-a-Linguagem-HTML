@@ -1,0 +1,30 @@
+<!DOCTYPE html> <!-- Declara o tipo de documento e a versão do HTML -->
+<html lang="pt-br"> <!-- Especifica o idioma do documento (Português - Brasil) -->
+
+<head>
+	<meta charset="utf-8"> <!-- Define a codificação de caracteres como UTF-8 -->
+	<title>Aprendendo sobre tags</title> <!-- Define o título do documento HTML -->
+</head>
+
+<body>
+	<p>Ola mundo fui...!</p> <!-- Parágrafo com o texto "Olá mundo fui...!" -->
+	<hr> <!-- Linha horizontal (separador) -->
+
+	<!-- Texto "Olá mundo cheguei...!" em uma nova linha -->
+	Olá mundo cheguei...! <br>
+
+	<p>
+		<!-- Vários estilos de texto dentro de um parágrafo -->
+		<b>Texto em negrito</b><br> <!-- Texto em negrito -->
+		<i>Texto em itálico</i><br> <!-- Texto em itálico -->
+		<u>Texto sublinhado</u><br> <!-- Texto sublinhado -->
+		<sub>Texto subscrito</sub><br> <!-- Texto sobrescrito -->
+		<sup>Texto sobrescrito</sup><br> <!-- Texto sobrescrito -->
+		<big>Texto com fonte maior do que o padrão</big><br> <!-- Fonte maior -->
+		<small>Texto com fonte menor do que o padrão</small><br> <!-- Fonte menor -->
+		<em>Texto em itálico</em><br> <!-- Texto enfatizado (itálico) -->
+		<strong>Texto em negrito</strong> <!-- Ênfase forte (negrito) -->
+	</p>
+
+</body>
+</html>
