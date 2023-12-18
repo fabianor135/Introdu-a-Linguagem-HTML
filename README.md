@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html><!-- Declaração do tipo de documento HTML -->
 <html lang="pt-br">
 
 <head>
