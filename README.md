@@ -1,1 +1,28 @@
 
+<!DOCTYPE html> <!-- Declaração do tipo de documento HTML -->
+<html lang="pt-br"> <!-- Abertura da tag html com atributo de idioma definido como português do Brasil -->
+<head>
+	<meta charset="utf-8"> <!-- Definição da codificação de caracteres como UTF-8 -->
+	<title>Aprendendo sobre tags</title> <!-- Título da página exibido na barra de título do navegador -->
+</head>
+<body> <!-- Abertura da tag body, onde o conteúdo principal da página é colocado -->
+
+	<!-- Parágrafo contendo o texto "Ola mundo fui...!" -->
+	<p>Ola mundo fui...!</p>
+	
+	<!-- Linha horizontal para separar visualmente o conteúdo -->
+	<hr>
+	
+	<!-- Texto "Ola mundo cheguei...!" seguido de uma quebra de linha -->
+	Ola mundo cheguei...! <br>
+	
+	<!-- Títulos de diferentes níveis (h1 a h5) e um parágrafo comum -->
+	<h1>Título 1 </h1>
+	<h2>Título 2 </h2>
+	<h3>Título 3 </h3>
+	<h4>Título 4 </h4>
+	<h5>Título 5 </h5>
+	<p>Texto comum</p>
+	
+</body> <!-- Fechamento da tag body -->
+</html> <!-- Fechamento da tag html -->
