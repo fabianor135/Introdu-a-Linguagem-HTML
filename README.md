@@ -10,6 +10,9 @@
 
 <h1>3) Colors:</h1>
 
+![image](https://github.com/fabianor135/Introdu-a-Linguagem-HTML/assets/84815028/421a318b-229e-486a-96a4-951671f5bd4f)
+
+
 
 
 
