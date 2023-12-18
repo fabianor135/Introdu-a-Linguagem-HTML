@@ -6,7 +6,8 @@
 <h1>2) Parágrafos:</h1>
 
 ![image](https://github.com/fabianor135/Introdu-o-Linguagem-HTML/assets/84815028/5272fcdd-32fd-4f36-9f19-18fc083d6c58)
-![image](https://github.com/fabianor135/Introdu-o-Linguagem-HTML/assets/84815028/1577f63d-e9cc-43d2-96eb-fa107391cd0b)
+![image](https://github.com/fabianor135/Introdu-a-Linguagem-HTML/assets/84815028/93caa53c-b8e5-41e7-b1c3-2715bae8318b)
+
 
 <h1>3) Colors:</h1>
 
