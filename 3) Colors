@@ -1,0 +1,19 @@
+<!DOCTYPE html> <!-- Declara o tipo de documento HTML -->
+<html>
+<head>
+    <title>Meus estilos</title> <!-- Define o título da página -->
+    <style>
+        body { 
+            background-color: lightcoral; /* Define a cor de fundo do corpo da página como vermelho claro */
+            color: black; /* Define a cor do texto como preto */
+        }
+    </style>
+</head>
+ 
+<body>
+ 
+    <p>Praticando HTML</p> <!-- Parágrafo contendo o texto "Olá mundo" -->
+ 
+</body>
+ 
+</html>
