@@ -5,8 +5,9 @@
 
 <h1>1) Parágrafos:</h1>
 
-![image](https://github.com/fabianor135/Introdu-o-Linguagem-HTML/assets/84815028/1577f63d-e9cc-43d2-96eb-fa107391cd0b)
 ![image](https://github.com/fabianor135/Introdu-o-Linguagem-HTML/assets/84815028/5272fcdd-32fd-4f36-9f19-18fc083d6c58)
+![image](https://github.com/fabianor135/Introdu-o-Linguagem-HTML/assets/84815028/1577f63d-e9cc-43d2-96eb-fa107391cd0b)
+
 
 
 
