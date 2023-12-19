@@ -15,6 +15,14 @@
 ![image](https://github.com/fabianor135/Introdu-a-Linguagem-HTML/assets/84815028/421a318b-229e-486a-96a4-951671f5bd4f)
 ![image](https://github.com/fabianor135/Introdu-a-Linguagem-HTML/assets/84815028/5911d30c-fc52-499e-94c9-a0e22c81386b)
 
+<h1>4) Imagem:</h1>
+
+![image](https://github.com/fabianor135/Introdu-a-Linguagem-HTML/assets/84815028/9356bedc-96e6-42a2-b1df-b209be23865c)
+![image](https://github.com/fabianor135/Introdu-a-Linguagem-HTML/assets/84815028/43218df6-97fa-4131-9829-d8d516e4a765)
+
+
+
+
 
 
 
