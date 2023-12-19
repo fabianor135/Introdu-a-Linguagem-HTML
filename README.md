@@ -21,6 +21,12 @@
 ![image](https://github.com/fabianor135/Introdu-a-Linguagem-HTML/assets/84815028/43218df6-97fa-4131-9829-d8d516e4a765)
 
 
+<h1>5) Linhas horizontais e listas:</h1>
+
+![image](https://github.com/fabianor135/Introdu-a-Linguagem-HTML/assets/84815028/ef94af14-99e7-4489-8bce-cb0e13be3873)
+![image](https://github.com/fabianor135/Introdu-a-Linguagem-HTML/assets/84815028/98579953-ef6c-4e8d-ba66-30838520d27a)
+
+
 
 
 
