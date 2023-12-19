@@ -26,6 +26,12 @@
 ![image](https://github.com/fabianor135/Introdu-a-Linguagem-HTML/assets/84815028/ef94af14-99e7-4489-8bce-cb0e13be3873)
 ![image](https://github.com/fabianor135/Introdu-a-Linguagem-HTML/assets/84815028/98579953-ef6c-4e8d-ba66-30838520d27a)
 
+<h1>6) Formulários:</h1>
+
+![image](https://github.com/fabianor135/Introdu-a-Linguagem-HTML/assets/84815028/b4232b9c-9dcc-4170-8835-5f3da3cd76fb)
+![image](https://github.com/fabianor135/Introdu-a-Linguagem-HTML/assets/84815028/b6647449-837b-48b7-b0ac-ba1298804954)
+
+
 
 
 
