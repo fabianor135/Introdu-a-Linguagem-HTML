@@ -1,0 +1,39 @@
+<!-- Declaração do tipo de documento HTML -->
+<!DOCTYPE html>
+
+<!-- Abertura da tag html com atributo de idioma definido como português do Brasil -->
+<html lang="pt-br">
+
+<!-- Início do cabeçalho da página -->
+<head>
+
+	<!-- Definição da codificação de caracteres como UTF-8 -->
+	<meta charset="utf-8">
+
+	<!-- Título da página exibido na barra de título do navegador -->
+	<title>Linhas horizontais e listas</title>
+
+<!-- Fim do cabeçalho da página -->
+</head>
+
+<!-- Início do corpo da página -->
+<body>
+ 
+ <!-- Lista ordenada -->
+<ol>
+<li>Primeiro elemento</li>
+<li>Segundo elemento</li>
+<li>Terceiro elemento</li>
+</ol>
+<!-- Lista não ordenada -->
+<ul>
+<li>Primeiro elemento</li>
+<li>Segundo elemento</li>
+<li>Terceiro elemento</li>
+</ul>
+	
+<!-- Fim do corpo da página -->
+</body>
+
+<!-- Fechamento da tag html -->
+</html>
