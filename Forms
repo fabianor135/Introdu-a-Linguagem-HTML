@@ -1,0 +1,76 @@
+<!-- Declaração do tipo de documento HTML -->
+<!DOCTYPE html>
+
+<!-- Abertura da tag html com atributo de idioma definido como português do Brasil -->
+<html lang="pt-br">
+
+<!-- Início do cabeçalho da página -->
+<head>
+
+	<!-- Definição da codificação de caracteres como UTF-8 -->
+	<meta charset="utf-8">
+
+	<!-- Título da página exibido na barra de título do navegador -->
+	<title>Formulários</title>
+
+<!-- Fim do cabeçalho da página -->
+</head>
+
+<!-- Início do corpo da página -->
+<body>
+
+	<!-- Início do formulário com a ação definida como "processa.php" e método POST -->
+	<form action="processa.php" method="post">
+
+  		<!-- Rótulo e campo de entrada de texto -->
+  		<label>Text</label>
+    	<input type="text" name="texto1" placeholder="Insira o texto aqui">
+
+		<br>
+
+		<!-- Rótulo e campo de entrada de senha -->
+		<label>Password</label>
+		<input type="password" name="senha">
+
+		<br>
+
+		<!-- Rótulo e campo de entrada oculta -->
+		<label>Ocultos</label>
+		<input type="hidden" name="informacao_oculta" value="mensagem oculta">
+
+		<br>
+
+		<!-- Rótulo e menu suspenso (select) -->
+		<label>Select</label>
+		<select name="selecao">
+			<option value="1">Opção 1</option>
+			<option value="2">Opção 2</option>
+		</select>
+
+		<br>
+
+		<!-- Rótulo e botões de rádio -->
+		<label>Button Radio</label><br>
+		<input type="radio" name="radio1" value="1">Valor 1<br>
+		<input type="radio" name="radio1" value="2">Valor 2
+
+		<br>
+
+		<!-- Rótulo e caixas de seleção (checkbox) -->
+		<label>Button Checkbox</label><br>
+		<input type="checkbox" name="ck1" value="1">Valor 1<br>
+		<input type="checkbox" name="ck1" value="2">Valor 2<br>
+		<input type="checkbox" name="ck1" value="1">Valor 1<br>
+
+		<br>
+
+		<!-- Botão de envio do formulário -->
+		<input type="submit" value="Enviar" name="submit">
+
+	</form>
+
+<!-- Fim do corpo da página -->
+</body>
+
+<!-- Fechamento da tag html -->
+</html>
